@@ -37,7 +37,9 @@ Proyek ini berfokus pada implementasi pengenalan suara berbasis kecerdasan buata
 5. **Power Supply:** Untuk Raspberry Pi dan solenoid lock.
 
 **Software Requirements**
+
 Python 3.x: Bahasa pemrograman utama untuk pengembangan sistem.
+
 **Libraries:**
 1. **Librosa:** Ekstraksi fitur MFCC dari audio.
 2. **TensorFlow/Keras:** Membuat dan melatih model CNN.
