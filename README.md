@@ -10,6 +10,7 @@ Anggota Kelompok :
 5. Ardhito Hafiz Prathama (215150300111005)
 
 **Project Domain**
+
 Proyek ini berfokus pada implementasi pengenalan suara berbasis kecerdasan buatan untuk sistem kendali pintu otomatis. Sistem ini memanfaatkan fitur MFCC (Mel-Frequency Cepstral Coefficients) untuk ekstraksi ciri suara dan CNN (Convolutional Neural Network) untuk pengenalan suara yang aman
 
 **Problem Statements**
